@@ -29,6 +29,7 @@ main {
 
 .logo {
     width: 500px;
+    margin: -300px;
 }
 
 .slogan {
