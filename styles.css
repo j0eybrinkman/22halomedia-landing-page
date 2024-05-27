@@ -24,7 +24,11 @@ footer {
 }
 
 .logo {
-    width: 150px;
+    width: 300px;
+}
+
+.slogan {
+    width: 50%;
 }
 
 body,
