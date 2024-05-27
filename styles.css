@@ -14,17 +14,13 @@
 h1 {
     font-size: 3rem;
     font-weight: 800;
-    visibility: hidden;
+    display: none;
 }
 
 header,
 main,
 footer {
     text-align: center;
-}
-
-main {
-    margin-top: -200px;
 }
 
 .logo {
