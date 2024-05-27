@@ -14,7 +14,7 @@
 h1 {
     font-size: 3rem;
     font-weight: 800;
-    display: hidden;
+    visibility: hidden;
 }
 
 header,
