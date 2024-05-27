@@ -23,8 +23,12 @@ footer {
     text-align: center;
 }
 
+main {
+    margin-top: -400px;
+}
+
 .logo {
-    width:600px;
+    width:400px;
 }
 
 .slogan {
